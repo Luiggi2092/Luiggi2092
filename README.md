@@ -24,4 +24,14 @@ y encontrar nuevas Soluciones a problemas que creiamos ya resueltos.
 - EXPRESS
 - SEQUELIZE
 - POSTGRESQL
+- TYPESCRIPT
+- JAVASCRIPT
+- HTML5
+- CSS3
+- MYSQL
+- ORACLE
+- GIT
+- GIT HUB
+- FIGMA
+- GOOGLE CLOUD
  
