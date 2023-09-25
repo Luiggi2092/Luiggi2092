@@ -13,7 +13,7 @@ Actualmente me dedico a realizar proyectos a diferentes a empresas desde reporte
 ### ¿ A donde me dirigo ?
 Mi objetivo principal es impactar en el mundo tecnológico
 
-No solo disfruto de la programación por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existan el mundo
+No solo disfruto de la programación por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existan en el mundo
 y encontrar nuevas Soluciones a problemas que creiamos ya resueltos.
 
 ### ¿ Que Tecnologías uso ? 
