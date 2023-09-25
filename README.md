@@ -1,5 +1,5 @@
 ### Hola Mi Nombre es Luis Seminario López 👋
-Tambien conocido como Luiggi2092
+También conocido como Luiggi2092
 
 ### ¿ Quien Soy ?
 Soy un programdor Full Stack orientado al Front End como Back End.
